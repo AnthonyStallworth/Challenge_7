@@ -1,7 +1,5 @@
 # Challenge_7
 
-# Challenge_5
-
 
 
 Here is the Markdown syntax for this:
